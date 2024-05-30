@@ -1,0 +1,33 @@
+{
+  "name": "lloguer_cotxes_2",
+  "version": "1.0.0",
+  "description": "App per a la gestió de lloguer de vehicles",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/classesdeferran/lloguer_vehicles.git"
+  },
+  "keywords": [
+    "NODE",
+    "EXPRESS",
+    "EJS",
+    "MYSQL",
+    "BODY-PARSER",
+    "ECOMMERCE"
+  ],
+  "author": "Ferran - classesdeferran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/classesdeferran/lloguer_vehicles/issues"
+  },
+  "homepage": "https://github.com/classesdeferran/lloguer_vehicles#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "mysql2": "^3.9.9"
+  }
+}
